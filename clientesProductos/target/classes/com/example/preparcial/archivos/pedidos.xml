@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="20.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.example.preparcial.model.Pedidos">
+    <void property="cliente">
+     <object class="com.example.preparcial.model.Cliente">
+      <void property="apellido">
+       <string>contreras</string>
+      </void>
+      <void property="cedula">
+       <string>9999</string>
+      </void>
+      <void property="codigo">
+       <string>000</string>
+      </void>
+      <void property="nombre">
+       <string>juan</string>
+      </void>
+      <void property="telefono">
+       <string>3022123624</string>
+      </void>
+      <void property="tipoDeId">
+       <string>cedula</string>
+      </void>
+     </object>
+    </void>
+    <void property="productos">
+     <object class="com.example.preparcial.model.Productos">
+      <void property="codigo">
+       <string>djnkdd</string>
+      </void>
+      <void property="nombre">
+       <string>juan</string>
+      </void>
+      <void property="precio">
+       <float>23.0</float>
+      </void>
+     </object>
+    </void>
+    <void property="total">
+     <float>23.0</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.example.preparcial.model.Pedidos">
+    <void property="cliente">
+     <object class="com.example.preparcial.model.Cliente">
+      <void property="apellido">
+       <string>contreras</string>
+      </void>
+      <void property="cedula">
+       <string>9999</string>
+      </void>
+      <void property="codigo">
+       <string>000</string>
+      </void>
+      <void property="nombre">
+       <string>juan</string>
+      </void>
+      <void property="telefono">
+       <string>3022123624</string>
+      </void>
+      <void property="tipoDeId">
+       <string>cedula</string>
+      </void>
+     </object>
+    </void>
+    <void property="productos">
+     <object class="com.example.preparcial.model.Productos">
+      <void property="codigo">
+       <string>8</string>
+      </void>
+      <void property="nombre">
+       <string>uhcjk</string>
+      </void>
+      <void property="precio">
+       <float>987.0</float>
+      </void>
+     </object>
+    </void>
+    <void property="total">
+     <float>1510.0</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.example.preparcial.model.Pedidos">
+    <void property="cliente">
+     <object class="com.example.preparcial.model.Cliente">
+      <void property="apellido">
+       <string>contreras</string>
+      </void>
+      <void property="cedula">
+       <string>9999</string>
+      </void>
+      <void property="codigo">
+       <string>000</string>
+      </void>
+      <void property="nombre">
+       <string>juan</string>
+      </void>
+      <void property="telefono">
+       <string>3022123624</string>
+      </void>
+      <void property="tipoDeId">
+       <string>cedula</string>
+      </void>
+     </object>
+    </void>
+    <void property="productos">
+     <object class="com.example.preparcial.model.Productos">
+      <void property="codigo">
+       <string>123</string>
+      </void>
+      <void property="nombre">
+       <string>juan</string>
+      </void>
+      <void property="precio">
+       <float>500.0</float>
+      </void>
+     </object>
+    </void>
+    <void property="total">
+     <float>523.0</float>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
